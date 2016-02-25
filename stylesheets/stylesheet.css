@@ -85,8 +85,9 @@ text-align: center;;
 }
 
 .mainimages {
-  margin-left: 5%;
-  margin-right: 5%;
+  margin-left: auto;
+  margin-right: auto;
+  with: 6em;
 }
 .findings {
   text-align: center;
