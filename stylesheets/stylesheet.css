@@ -124,6 +124,7 @@ text-align: center;;
 .hangout {
 border-style:solid;
 border-color: black;
+border-width: 1px;
 width: 33%;
 margin-left: 33%;
 text-align: center;
@@ -137,4 +138,8 @@ text-align: center;
 .party{
  margin-left: 31.5%;
  padding: 10px;
+}
+
+.go {
+  text-align: center;
 }
