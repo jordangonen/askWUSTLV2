@@ -63,6 +63,7 @@ a:visited {
 }
 a:hover {
   color: white;
+
 }
 .mainmenu {
   top: 0%;
@@ -84,8 +85,8 @@ text-align: center;;
 }
 
 .mainimages {
-  margin-left: 7%;
-  margin-right: 7%;
+  margin-left: 5%;
+  margin-right: 5%;
 }
 .findings {
   text-align: center;
