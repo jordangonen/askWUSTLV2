@@ -45,7 +45,7 @@ title {
   border-style: solid;
   border-width: 4px;
   text-align: center;
-  margin-left: 50%;
+  margin-left: 47%;
   margin-right: 50%;
 }
 
@@ -56,13 +56,13 @@ title {
 
 }
 a:link {
-  color: white;
+  color: black;
 }
 a:visited {
-  color: white;
+  color: black;
 }
 a:hover {
-  color: black;
+  color: white;
 }
 .mainmenu {
   top: 0%;
@@ -76,8 +76,53 @@ a:hover {
 
 .bodytitle{
   text-align: center;
+  font-size: 40px;
 }
 
 .slogan {
 text-align: center;;
+}
+
+.mainimages {
+  margin-left: 7%;
+  margin-right: 7%;
+}
+.findings {
+  text-align: center;
+}
+.tool1 {
+  color: black;
+  background-color:#ff8080;
+  border-style: solid;
+  border-color: black;
+  border-width: 1px;
+  width: 33%;
+  padding: 5px;
+  margin-left: 33%;
+
+}
+.tool2 {
+  color: black;
+  background-color:#ff8080;
+
+  width: 33%;
+  padding: 5px;
+  margin-left: 33%;
+}
+
+.topadvice {
+  font-size: 48px;
+  text-align: center;
+}
+
+.questions {
+  text-align: center;
+  font-size: 36px;
+}
+.hangout {
+border-style:solid;
+border-color: black;
+width: 33%;
+margin-left: 33%;
+text-align: center;
 }
