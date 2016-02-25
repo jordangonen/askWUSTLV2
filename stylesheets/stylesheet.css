@@ -125,4 +125,14 @@ border-color: black;
 width: 33%;
 margin-left: 33%;
 text-align: center;
+
+}
+
+.newone {
+  text-align: center;
+}
+
+.party{
+ margin-left: 31.5%;
+ padding: 10px;
 }
